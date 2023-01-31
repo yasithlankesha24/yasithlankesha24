@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yasith Lankesha</h1>
-- 🌱 I’m currently learning **BEng Software Engineering at University of Westminster**
 
-- 💬 Ask me about **Python, Java, HTML**
+<h3 align="left"> <b> About Me </b> </h3>
 
-- 📫 How to reach me **yasith.lankezz@gmail.com**
+- 🌱 **I’m currently learning BEng Software Engineering at University of Westminster**
 
-- ⚡ Fun fact **just a simple guy**
+- 💬 **Ask me about Python, Java, HTML**
+
+- 📫 **How to reach me yasith.lankezz@gmail.com**
+
+- ⚡ **Fun fact just a simple guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

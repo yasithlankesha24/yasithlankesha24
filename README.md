@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasith Lankesha</h1>
 - 🌱 I’m currently learning **BEng Software Engineering at University of Westminster**
 
+- 💬 Ask me about **Python, Java, HTML**
+
 - 📫 How to reach me **yasith.lankezz@gmail.com**
 
 - ⚡ Fun fact **just a simple guy**
@@ -8,7 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasith-lankesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasith-lankesha" height="30" width="40" /></a>
+<a href="https://fb.com/yasith.lankesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasith.lankesha" height="30" width="40" /></a>
 <a href="https://instagram.com/yasith_46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasith_46" height="30" width="40" /></a>
+<a href="https://discord.gg/Yasith Lankesha#2522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yasith Lankesha#2522" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

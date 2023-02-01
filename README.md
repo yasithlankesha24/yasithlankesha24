@@ -2,7 +2,7 @@
 
 <h3 align="left"> <b> About Me </b> </h3>
 
-- 🌱 **I’m currently learning BEng Software Engineering at University of Westminster**
+- 🌱 **I’m currently learning BEng(Hons) Software Engineering at University of Westminster**
 
 - 💬 **Ask me about Python, Java, HTML**
 

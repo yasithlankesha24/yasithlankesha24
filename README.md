@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasith Lankesha</h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=yasithlankesha24-github-username&color=green)
 
 <h3 align="left"> <b> About Me </b> </h3>
 

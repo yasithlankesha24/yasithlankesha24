@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yasith Lankesha</h1>
+1 align="center">Hi 👋, I'm Yasith Lankesha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithlankesha24&label=Profile%20views&color=0e75b6&style=flat" alt="yasithlankesha24" /> </p>
 
 - 🌱 I’m currently learning **BEng Software Engineering at University of Westminster**
-
-- 👨‍💻 All of my projects are available at [https://yasithlankesha24.github.io/portfolio/](https://yasithlankesha24.github.io/portfolio/)
 
 - 💬 Ask me about **Python, Java, HTML**
 
@@ -13,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/lankesha_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lankesha_y" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yasith-lankesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasith-lankesha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21191406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21191406" height="30" width="40" /></a>
 <a href="https://fb.com/yasith.lankesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasith.lankesha" height="30" width="40" /></a>
